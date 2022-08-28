@@ -1,0 +1,48 @@
+ body {
+  margin: 0;
+  padding: 0%;
+  background-image: url(./R\ \(1\).jpg);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-style: groove;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin: 1.5rem;
+  background-color: #1e1f1eb3;
+}
+.header-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10%;
+  color: rgb(249, 250, 252);
+}
+.button-box {
+  border-radius: 0.5rem;
+  padding: 8px;
+  margin: 1%;
+  text-align: center;
+  background-color: rgb(199, 111, 250);
+  font-size: 100%;
+  color: white;
+}
+input {
+  border-radius: 0.5rem;
+  padding: 8px;
+  text-align: center;
+  background-color: rgb(59, 71, 51);
+  font-size: 100%;
+  color: white;
+}
+label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+}
+p{color: antiquewhite;}
